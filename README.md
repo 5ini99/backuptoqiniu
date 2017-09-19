@@ -1,7 +1,7 @@
 #备份网站数据到七牛云存储脚本
 
 利用七牛python SDK上传，需要配置 `backuptoqiniu.sh`
-博客：https://www.jocry.com/48.html    没有注册的同学需要[注册七牛账号](https://portal.qiniu.com/signup?code=3lca3cfxpx1ea)  
+博客： https://www.jocry.com/48.html    没有注册的同学需要[注册七牛账号](https://portal.qiniu.com/signup?code=3lca3cfxpx1ea)  
 
 1. 安装七牛SDK，需要 `python` 环境：
 	```
