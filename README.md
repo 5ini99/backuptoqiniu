@@ -1,8 +1,7 @@
 #备份网站数据到七牛云存储脚本
 
 利用七牛python SDK上传，需要配置 `backuptoqiniu.sh`
-作者：[ccbikai](http://weibo.com/ccbikai)  
-博客：http://miantiao.me/    没有注册的同学需要[注册七牛账号](http://126.am/qiniuyun)  
+博客：https://www.jocry.com/48.html    没有注册的同学需要[注册七牛账号](https://portal.qiniu.com/signup?code=3lca3cfxpx1ea)  
 
 1. 安装七牛SDK，需要 `python` 环境：
 	```
@@ -69,5 +68,5 @@
 ##常见问题
 
 1. `mysqldump: command not found`，如果出现此错误，请参考以下方式解决
-	http://www.inbiji.com/biji/mysqldump-command-not-found.html
+	http://baidu.com
 
